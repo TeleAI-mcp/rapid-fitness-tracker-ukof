@@ -1,2 +1,3 @@
-# rapid-fitness-tracker-ukof
-Automated issue comment bot repository
+# Rapid Fitness Tracker Ukof
+
+Automated issue comment bot repository.
